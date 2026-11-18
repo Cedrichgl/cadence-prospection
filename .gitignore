@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/cadence.db
+node_modules/
+frontend/dist/
+.env
+*.local.json
